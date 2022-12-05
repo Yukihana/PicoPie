@@ -1,2 +1,2 @@
 # PicoPie
-Exercises for Raspberry Pi Pico, written in MicroPython
+Evolving library for some Raspberry Pi Pico programs, written in MicroPython
